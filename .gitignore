@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.js
+*.js.map
+*.d.ts
+
+# Editor
+.vscode/
+.idea/
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+lib/
+vendor/
+
+# Logs and testing files
+*.log
+*.log*
+*.test.ts
+*.spec.ts
+
+# Environment files
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
